@@ -1,1 +1,1 @@
-# GeoRich.github.io
+# georich.github.io
