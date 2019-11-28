@@ -199,6 +199,13 @@ ul.simplelist {
 	width: 1124px;
 }
 
+#topiclist {
+	margin-left: 2em;
+  columns: 2;
+  -webkit-columns: 2;
+  -moz-columns: 2;
+}
+
 #logo {
 	text-align: center;
 	position: relative;
